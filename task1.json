@@ -1,0 +1,842 @@
+[
+  {
+    "folder_id": 1919,
+    "author": "Libya",
+    "coauthor": "Lesotho",
+    "date": "2023-12-08",
+    "choices_2": [
+      "Malawi",
+      "Lesotho"
+    ],
+    "choices_3": [
+      "Lesotho",
+      "Niger",
+      "Gabon"
+    ],
+    "choices_4": [
+      "South Sudan",
+      "Eswatini",
+      "UN. Secretary-General",
+      "Lesotho"
+    ],
+    "choices_5": [
+      "Ghana",
+      "Israel",
+      "Niger",
+      "Guinea-Bissau",
+      "Lesotho"
+    ]
+  },
+  {
+    "folder_id": 1938,
+    "author": "Romania",
+    "coauthor": "Denmark",
+    "date": "2024-04-24",
+    "choices_2": [
+      "Denmark",
+      "Azerbaijan"
+    ],
+    "choices_3": [
+      "Saint Kitts and Nevis",
+      "Turkmenistan",
+      "Denmark"
+    ],
+    "choices_4": [
+      "Denmark",
+      "Serbia",
+      "Peru",
+      "The former Yugoslav Republic of Macedonia"
+    ],
+    "choices_5": [
+      "Denmark",
+      "Niger",
+      "Gabon",
+      "Burkina Faso",
+      "Comoros"
+    ]
+  },
+  {
+    "folder_id": 1942,
+    "author": "Singapore",
+    "coauthor": "North Macedonia",
+    "date": "2024-05-24",
+    "choices_2": [
+      "North Macedonia",
+      "Saint Kitts and Nevis"
+    ],
+    "choices_3": [
+      "North Macedonia",
+      "Botswana",
+      "League of Arab States"
+    ],
+    "choices_4": [
+      "UN. Secretary-General",
+      "Saint Lucia",
+      "North Macedonia",
+      "Burkina Faso"
+    ],
+    "choices_5": [
+      "UN. Security Council. Committee on the Admission of New Members",
+      "Senegal",
+      "Egypt",
+      "UN. Secretary-General",
+      "North Macedonia"
+    ]
+  },
+  {
+    "folder_id": 1938,
+    "author": "Romania",
+    "coauthor": "Estonia",
+    "date": "2024-04-24",
+    "choices_2": [
+      "Estonia",
+      "Samoa"
+    ],
+    "choices_3": [
+      "Nicaragua",
+      "Estonia",
+      "Central African Republic"
+    ],
+    "choices_4": [
+      "Mongolia",
+      "Estonia",
+      "El Salvador",
+      "Namibia"
+    ],
+    "choices_5": [
+      "Fiji",
+      "Kiribati",
+      "Kuwait",
+      "Estonia",
+      "Chad"
+    ]
+  },
+  {
+    "folder_id": 1942,
+    "author": "Myanmar",
+    "coauthor": "Andorra",
+    "date": "2024-05-24",
+    "choices_2": [
+      "Saudi Arabia",
+      "Andorra"
+    ],
+    "choices_3": [
+      "Senegal",
+      "Andorra",
+      "Lesotho"
+    ],
+    "choices_4": [
+      "Eritrea",
+      "Saint Kitts and Nevis",
+      "Turkmenistan",
+      "Andorra"
+    ],
+    "choices_5": [
+      "Senegal",
+      "Malaysia",
+      "Andorra",
+      "The former Yugoslav Republic of Macedonia",
+      "Antigua and Barbuda"
+    ]
+  },
+  {
+    "folder_id": 1919,
+    "author": "Thailand",
+    "coauthor": "Congo",
+    "date": "2023-12-08",
+    "choices_2": [
+      "Congo",
+      "Venezuela"
+    ],
+    "choices_3": [
+      "Solomon Islands",
+      "Mauritius",
+      "Congo"
+    ],
+    "choices_4": [
+      "Guinea-Bissau",
+      "Congo",
+      "Za\u00efre",
+      "Kiribati"
+    ],
+    "choices_5": [
+      "Congo",
+      "Uruguay",
+      "Netherlands (Kingdom of the)",
+      "Nauru",
+      "Israel"
+    ]
+  },
+  {
+    "folder_id": 1942,
+    "author": "Belgium",
+    "coauthor": "Romania",
+    "date": "2024-05-24",
+    "choices_2": [
+      "Romania",
+      "Za\u00efre"
+    ],
+    "choices_3": [
+      "Romania",
+      "Kiribati",
+      "Yugoslavia"
+    ],
+    "choices_4": [
+      "Tajikistan",
+      "Eswatini",
+      "Romania",
+      "Congo"
+    ],
+    "choices_5": [
+      "India",
+      "Kiribati",
+      "Namibia",
+      "Romania",
+      "Zimbabwe"
+    ]
+  },
+  {
+    "folder_id": 1919,
+    "author": "Poland",
+    "coauthor": "Bangladesh",
+    "date": "2023-12-08",
+    "choices_2": [
+      "Bangladesh",
+      "Ghana"
+    ],
+    "choices_3": [
+      "Bangladesh",
+      "Liechtenstein",
+      "Turkey"
+    ],
+    "choices_4": [
+      "Guatemala",
+      "UN. Security Council (78th year : 2023)",
+      "Germany",
+      "Bangladesh"
+    ],
+    "choices_5": [
+      "Bangladesh",
+      "Montenegro",
+      "Denmark",
+      "Democratic People's Republic of Korea",
+      "Paraguay"
+    ]
+  },
+  {
+    "folder_id": 1956,
+    "author": "San Marino",
+    "coauthor": "Slovakia",
+    "date": "2024-07-19",
+    "choices_2": [
+      "Slovakia",
+      "Kazakhstan"
+    ],
+    "choices_3": [
+      "Slovakia",
+      "Fiji",
+      "Egypt"
+    ],
+    "choices_4": [
+      "Saudi Arabia",
+      "Namibia",
+      "Slovakia",
+      "Russian Federation"
+    ],
+    "choices_5": [
+      "Sao Tome and Principe",
+      "Maldives",
+      "Cameroon",
+      "Sri Lanka",
+      "Slovakia"
+    ]
+  },
+  {
+    "folder_id": 1942,
+    "author": "Bangladesh",
+    "coauthor": "Dominican Republic",
+    "date": "2024-05-24",
+    "choices_2": [
+      "Panama",
+      "Dominican Republic"
+    ],
+    "choices_3": [
+      "Dominican Republic",
+      "Botswana",
+      "Kyrgyzstan"
+    ],
+    "choices_4": [
+      "Botswana",
+      "Dominican Republic",
+      "Burkina Faso",
+      "Iraq"
+    ],
+    "choices_5": [
+      "The former Yugoslav Republic of Macedonia",
+      "Suriname",
+      "Seychelles",
+      "Dominican Republic",
+      "Belarus"
+    ]
+  },
+  {
+    "folder_id": 1976,
+    "author": "Guyana",
+    "coauthor": "Republic of Korea",
+    "date": "2024-11-20",
+    "choices_2": [
+      "Iran (Islamic Republic of)",
+      "Republic of Korea"
+    ],
+    "choices_3": [
+      "Serbia",
+      "Republic of Korea",
+      "Bosnia and Herzegovina"
+    ],
+    "choices_4": [
+      "Republic of Korea",
+      "Kiribati",
+      "Malawi",
+      "Kuwait"
+    ],
+    "choices_5": [
+      "Italy",
+      "United Kingdom",
+      "Zambia",
+      "Republic of Korea",
+      "Central African Republic"
+    ]
+  },
+  {
+    "folder_id": 1942,
+    "author": "C\u00f4te d'Ivoire",
+    "coauthor": "Canada",
+    "date": "2024-05-24",
+    "choices_2": [
+      "Canada",
+      "Malawi"
+    ],
+    "choices_3": [
+      "Canada",
+      "Sri Lanka",
+      "Turkmenistan"
+    ],
+    "choices_4": [
+      "Canada",
+      "Iran (Islamic Republic of)",
+      "India",
+      "Chad"
+    ],
+    "choices_5": [
+      "Tonga",
+      "Tuvalu",
+      "League of Arab States",
+      "Canada",
+      "Central African Republic"
+    ]
+  },
+  {
+    "folder_id": 1919,
+    "author": "Mexico",
+    "coauthor": "Maldives",
+    "date": "2023-12-08",
+    "choices_2": [
+      "Maldives",
+      "Iran (Islamic Republic of)"
+    ],
+    "choices_3": [
+      "Mauritius",
+      "North Macedonia",
+      "Maldives"
+    ],
+    "choices_4": [
+      "Maldives",
+      "eqypt",
+      "Rwanda",
+      "Guatemala"
+    ],
+    "choices_5": [
+      "South Sudan",
+      "Albania",
+      "Eswatini",
+      "Bhutan",
+      "Maldives"
+    ]
+  },
+  {
+    "folder_id": 1942,
+    "author": "Chile",
+    "coauthor": "Netherlands (Kingdom of the)",
+    "date": "2024-05-24",
+    "choices_2": [
+      "Netherlands (Kingdom of the)",
+      "Netherlands"
+    ],
+    "choices_3": [
+      "eqypt",
+      "Netherlands (Kingdom of the)",
+      "Venezuela (Bolivarian Republic of)"
+    ],
+    "choices_4": [
+      "Netherlands (Kingdom of the)",
+      "Malaysia",
+      "Mali",
+      "Belarus"
+    ],
+    "choices_5": [
+      "Malawi",
+      "Zimbabwe",
+      "Oman",
+      "Netherlands (Kingdom of the)",
+      "United States"
+    ]
+  },
+  {
+    "folder_id": 1942,
+    "author": "Djibouti",
+    "coauthor": "Finland",
+    "date": "2024-05-24",
+    "choices_2": [
+      "Turkey",
+      "Finland"
+    ],
+    "choices_3": [
+      "UN. Security Council. Committee on the Admission of New Members",
+      "Israel",
+      "Finland"
+    ],
+    "choices_4": [
+      "Solomon Islands",
+      "Yugoslavia",
+      "Finland",
+      "Venezuela (Bolivarian Republic of)"
+    ],
+    "choices_5": [
+      "Egypt",
+      "Yugoslavia",
+      "Mauritania",
+      "Finland",
+      "Nicaragua"
+    ]
+  },
+  {
+    "folder_id": 1919,
+    "author": "Saint Vincent and the Grenadines",
+    "coauthor": "Mexico",
+    "date": "2023-12-08",
+    "choices_2": [
+      "UN. Secretary-General",
+      "Mexico"
+    ],
+    "choices_3": [
+      "Solomon Islands",
+      "Sao Tome and Principe",
+      "Mexico"
+    ],
+    "choices_4": [
+      "Za\u00efre",
+      "Uruguay",
+      "Mexico",
+      "France"
+    ],
+    "choices_5": [
+      "India",
+      "Mexico",
+      "Guatemala",
+      "North Macedonia",
+      "League of Arab States"
+    ]
+  },
+  {
+    "folder_id": 1956,
+    "author": "Republic of Korea",
+    "coauthor": "Bulgaria",
+    "date": "2024-07-19",
+    "choices_2": [
+      "Bulgaria",
+      "Myanmar"
+    ],
+    "choices_3": [
+      "Sri Lanka",
+      "Yugoslavia",
+      "Bulgaria"
+    ],
+    "choices_4": [
+      "Algeria",
+      "Bulgaria",
+      "Peru",
+      "China"
+    ],
+    "choices_5": [
+      "Belarus",
+      "Bulgaria",
+      "Peru",
+      "Botswana",
+      "Mauritius"
+    ]
+  },
+  {
+    "folder_id": 1919,
+    "author": "Andorra",
+    "coauthor": "Argentina",
+    "date": "2023-12-08",
+    "choices_2": [
+      "UN. Security Council. Committee on the Admission of New Members",
+      "Argentina"
+    ],
+    "choices_3": [
+      "Mozambique",
+      "Group of Arab States. Chair",
+      "Argentina"
+    ],
+    "choices_4": [
+      "United Kingdom",
+      "Republic of Moldova",
+      "Argentina",
+      "Germany"
+    ],
+    "choices_5": [
+      "Liechtenstein",
+      "Cameroon",
+      "Yugoslavia",
+      "Slovakia",
+      "Argentina"
+    ]
+  },
+  {
+    "folder_id": 1919,
+    "author": "Argentina",
+    "coauthor": "Mexico",
+    "date": "2023-12-08",
+    "choices_2": [
+      "Yugoslavia",
+      "Mexico"
+    ],
+    "choices_3": [
+      "Cabo Verde",
+      "Palau",
+      "Mexico"
+    ],
+    "choices_4": [
+      "Latvia",
+      "Lithuania",
+      "Czechia",
+      "Mexico"
+    ],
+    "choices_5": [
+      "Monaco",
+      "Sweden",
+      "Nauru",
+      "Mexico",
+      "Liechtenstein"
+    ]
+  },
+  {
+    "folder_id": 1938,
+    "author": "Ireland",
+    "coauthor": "Slovakia",
+    "date": "2024-04-24",
+    "choices_2": [
+      "Venezuela (Bolivarian Republic of)",
+      "Slovakia"
+    ],
+    "choices_3": [
+      "United Republic of Tanzania",
+      "Slovakia",
+      "Uzbekistan"
+    ],
+    "choices_4": [
+      "Slovakia",
+      "Netherlands",
+      "Libya",
+      "Bolivia (Plurinational State of)"
+    ],
+    "choices_5": [
+      "Guinea",
+      "Serbia",
+      "Equatorial Guinea",
+      "South Sudan",
+      "Slovakia"
+    ]
+  },
+  {
+    "folder_id": 1942,
+    "author": "Japan",
+    "coauthor": "Bahamas",
+    "date": "2024-05-24",
+    "choices_2": [
+      "Bahamas",
+      "UN. General Assembly (49th sess. : 1994-1995)"
+    ],
+    "choices_3": [
+      "Bahamas",
+      "Uzbekistan",
+      "Oman"
+    ],
+    "choices_4": [
+      "Tuvalu",
+      "Bahamas",
+      "Russian Federation",
+      "Kiribati"
+    ],
+    "choices_5": [
+      "Ethiopia",
+      "Yemen",
+      "Suriname",
+      "Kyrgyzstan",
+      "Bahamas"
+    ]
+  },
+  {
+    "folder_id": 1938,
+    "author": "Sweden",
+    "coauthor": "Liechtenstein",
+    "date": "2024-04-24",
+    "choices_2": [
+      "Liechtenstein",
+      "Barbados"
+    ],
+    "choices_3": [
+      "Liechtenstein",
+      "Belarus",
+      "Nicaragua"
+    ],
+    "choices_4": [
+      "Tuvalu",
+      "Angola",
+      "Czech Republic",
+      "Liechtenstein"
+    ],
+    "choices_5": [
+      "Cuba",
+      "Pakistan",
+      "Senegal",
+      "Liechtenstein",
+      "Venezuela (Bolivarian Republic of)"
+    ]
+  },
+  {
+    "folder_id": 1919,
+    "author": "China",
+    "coauthor": "Kuwait",
+    "date": "2023-12-08",
+    "choices_2": [
+      "Kuwait",
+      "Croatia"
+    ],
+    "choices_3": [
+      "Kuwait",
+      "Samoa",
+      "Sao Tome and Principe"
+    ],
+    "choices_4": [
+      "Albania",
+      "Kuwait",
+      "UN. Secretary-General",
+      "Sao Tome and Principe"
+    ],
+    "choices_5": [
+      "Germany",
+      "Liechtenstein",
+      "Kuwait",
+      "India",
+      "Slovakia"
+    ]
+  },
+  {
+    "folder_id": 1919,
+    "author": "Kenya",
+    "coauthor": "Andorra",
+    "date": "2023-12-08",
+    "choices_2": [
+      "Mozambique",
+      "Andorra"
+    ],
+    "choices_3": [
+      "Andorra",
+      "Marshall Islands",
+      "Micronesia (Federated States of)"
+    ],
+    "choices_4": [
+      "Libyan Arab Jamahiriya",
+      "Andorra",
+      "Togo",
+      "Slovakia"
+    ],
+    "choices_5": [
+      "Andorra",
+      "Democratic People's Republic of Korea",
+      "Algeria",
+      "Syrian Arab Republic",
+      "Niger"
+    ]
+  },
+  {
+    "folder_id": 1956,
+    "author": "Sierra Leone",
+    "coauthor": "Lithuania",
+    "date": "2024-07-19",
+    "choices_2": [
+      "Dominica",
+      "Lithuania"
+    ],
+    "choices_3": [
+      "Kazakhstan",
+      "Kuwait",
+      "Lithuania"
+    ],
+    "choices_4": [
+      "Algeria",
+      "Papua New Guinea",
+      "Kiribati",
+      "Lithuania"
+    ],
+    "choices_5": [
+      "Gabon",
+      "Iceland",
+      "Lithuania",
+      "Lesotho",
+      "Mauritania"
+    ]
+  },
+  {
+    "folder_id": 1956,
+    "author": "Finland",
+    "coauthor": "Estonia",
+    "date": "2024-07-19",
+    "choices_2": [
+      "Georgia",
+      "Estonia"
+    ],
+    "choices_3": [
+      "Estonia",
+      "Tajikistan",
+      "Group of Arab States. Chair"
+    ],
+    "choices_4": [
+      "eqypt",
+      "Estonia",
+      "Philippines",
+      "Czech Republic"
+    ],
+    "choices_5": [
+      "Colombia",
+      "Estonia",
+      "Djibouti",
+      "United Republic of Tanzania",
+      "Philippines"
+    ]
+  },
+  {
+    "folder_id": 1919,
+    "author": "Saint Lucia",
+    "coauthor": "Fiji",
+    "date": "2023-12-08",
+    "choices_2": [
+      "Fiji",
+      "Kiribati"
+    ],
+    "choices_3": [
+      "Vanuatu",
+      "Iran (Islamic Republic of)",
+      "Fiji"
+    ],
+    "choices_4": [
+      "Fiji",
+      "Turkmenistan",
+      "Honduras",
+      "Mongolia"
+    ],
+    "choices_5": [
+      "Burkina Faso",
+      "Palau",
+      "Fiji",
+      "Brunei Darussalam",
+      "Ghana"
+    ]
+  },
+  {
+    "folder_id": 1919,
+    "author": "Saint Lucia",
+    "coauthor": "Kyrgyzstan",
+    "date": "2023-12-08",
+    "choices_2": [
+      "Rwanda",
+      "Kyrgyzstan"
+    ],
+    "choices_3": [
+      "Haiti",
+      "United Republic of Tanzania",
+      "Kyrgyzstan"
+    ],
+    "choices_4": [
+      "United Kingdom",
+      "eqypt",
+      "Kyrgyzstan",
+      "Zambia"
+    ],
+    "choices_5": [
+      "Kyrgyzstan",
+      "Zambia",
+      "Syrian Arab Republic",
+      "Guatemala",
+      "Algeria"
+    ]
+  },
+  {
+    "folder_id": 1942,
+    "author": "Slovenia",
+    "coauthor": "Bosnia and Herzegovina",
+    "date": "2024-05-24",
+    "choices_2": [
+      "T\u00fcrkiye",
+      "Bosnia and Herzegovina"
+    ],
+    "choices_3": [
+      "Eritrea",
+      "China",
+      "Bosnia and Herzegovina"
+    ],
+    "choices_4": [
+      "Bosnia and Herzegovina",
+      "T\u00fcrkiye",
+      "South Sudan",
+      "Angola"
+    ],
+    "choices_5": [
+      "Serbia",
+      "Bosnia and Herzegovina",
+      "Papua New Guinea",
+      "Oman",
+      "Cameroon"
+    ]
+  },
+  {
+    "folder_id": 1919,
+    "author": "Benin",
+    "coauthor": "Saint Lucia",
+    "date": "2023-12-08",
+    "choices_2": [
+      "Republic of Korea",
+      "Saint Lucia"
+    ],
+    "choices_3": [
+      "Hungary",
+      "Czech Republic",
+      "Saint Lucia"
+    ],
+    "choices_4": [
+      "The former Yugoslav Republic of Macedonia",
+      "Venezuela (Bolivarian Republic of). Permanent Mission to the United Nations",
+      "Saint Lucia",
+      "Ecuador"
+    ],
+    "choices_5": [
+      "Australia",
+      "Democratic People's Republic of Korea",
+      "Cabo Verde",
+      "Netherlands",
+      "Saint Lucia"
+    ]
+  }
+]
