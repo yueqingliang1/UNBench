@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project provides tools for analyzing, simulating, and generating content related to United Nations Security Council (UNSC) draft resolutions using language models. The tasks involve coauthor selection, voting simulation, resolution adoption prediction, and statement generation. We released approximately 30 samples for each task, and the full dataset will be made publicly available upon the paper's acceptance.
+This project provides tools for analyzing, simulating, and generating content related to United Nations Security Council (UNSC) draft resolutions using language models. The tasks involve coauthor selection, voting simulation, resolution adoption prediction, and statement generation. We released approximately 30 samples for each task in this repo, and the full dataset can be downloaded from Google Drive [[link]](https://drive.google.com/file/d/1tiBCCYPjeIN92TkO8Vt8vrpSKLmGb-6Y/view?usp=sharing).
 
 ## Features
 
