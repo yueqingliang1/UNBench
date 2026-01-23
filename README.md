@@ -9,6 +9,8 @@ UNBench is a comprehensive multi-stage benchmark built on United Nations Securit
 **AAAI 2026 (Oral)**  
 🔗 https://arxiv.org/abs/2502.14122
 
+![UNBench major](figures/UNBench.png)
+
 ## Overview
 
 This repository provides tools and sample data for analyzing, simulating, and generating content related to UNSC draft resolutions using language models.
